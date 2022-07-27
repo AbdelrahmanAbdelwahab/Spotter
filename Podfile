@@ -8,6 +8,7 @@ target 'TestApp' do
   # Pods for TestApp
 
 pod 'NVActivityIndicatorView'
+pod 'NVActivityIndicatorView/Extended'
 
   target 'TestAppTests' do
     inherit! :search_paths
